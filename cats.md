@@ -1,6 +1,6 @@
-# Dogs
-<img src= "https://cdn.pixabay.com/photo/2017/09/25/13/12/puppy-2785074__340.jpg" alt="cute dog photo">
+# Cats
+<img src= "https://images.unsplash.com/photo-1529778873920-4da4926a72c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y3V0ZSUyMGNhdHxlbnwwfHwwfHw%3D&w=1000&q=80" alt="cute cat photo">
 
-<p> Dogs are the most variable mammal on earth with around 450 globally recognized dog breeds.[10] In the Victorian era, directed human selection developed the modern dog breeds, which resulted in a vast range of phenotypes.[8] Most breeds were derived from small numbers of founders within the last 200 years,[8][10] and since then dogs have undergone rapid phenotypic change and were formed into today's modern breeds due to artificial selection imposed by humans. The skull, body, and limb proportions vary significantly between breeds, with dogs displaying more phenotypic diversity than can be found within the entire order of carnivores. </p>
+<p> The cat (Felis catus) is a domestic species of small carnivorous mammal.[1][2] It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members of the family.[4] Cats are commonly kept as house pets but can also be farm cats or feral cats; the feral cat ranges freely and avoids human contact.[5] Domestic cats are valued by humans for companionship and their ability to kill rodents. About 60 cat breeds are recognized by various cat registries.[6] </p>
 
 [back](./README.md)
